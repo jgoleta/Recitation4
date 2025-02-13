@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Grinding Gears</title>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<style>
+		header {
+			background-image: url('https://i.ytimg.com/vi/Hwl9-NjCyXY/maxresdefault.jpg');
+           		background-repeat: no-repeat;
+            		background-attachment: fixed;
+            		background-size: 100% 100%;
+      		  }
+		body {
+            		font-family: Helvetica;
+        	}
+	</style>
+</head>
+<body>
+	<header>
+        <img align="left" HSPACE="1" src="efgzsdf" alt="Ateneo de Naga University"
+            style="width:220px;height:200px;border: solid black 1px;; padding:2px;" />
+        <h1 style="color:black;">Iconic JDM Cars</h1>
+    	</header>
+</body>
+</html>
